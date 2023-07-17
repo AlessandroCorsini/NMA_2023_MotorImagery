@@ -1,6 +1,6 @@
 # NMA_2023_MotorImagery
 
-** The following contribuited equally to this project: **
+**The following contribuited equally to this project:**
 
 (please write your name and useful links)
 
