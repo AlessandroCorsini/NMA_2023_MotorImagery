@@ -35,16 +35,6 @@ The results of a  preliminary logistic regression classification show that the h
 
 **The following contribuited equally to this project:**
 
-Melchior Steimen
-steimenmelchior@gmail.com
-Mila Makarova
-makarova-milka@mail.ru
-Saman Lashgari
-smnlashkari@gmail.com
-Ricardo De Haro Mancha
-ricardomeine96@gmail.com
-
-
   - Alessandro Corsini (https://alessandrocorsini.github.io/)
   - Melchior Steimen (steimenmelchior@gmail.com)
   - Mila Makarova (makarova-milka@mail.ru)
