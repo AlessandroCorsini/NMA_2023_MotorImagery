@@ -1,5 +1,12 @@
 # NMA_2023_MotorImagery
 
+**The following contribuited equally to this project:**
+  - Alessandro Corsini (https://alessandrocorsini.github.io/)
+  - Melchior Steimen (steimenmelchior@gmail.com)
+  - Mila Makarova (makarova-milka@mail.ru)
+  - Saman Lashgari (smnlashkari@gmail.com)
+  - Ricardo De Haro Mancha (ricardomeine96@gmail.com)
+
 ## Exploring the role of DLPFC in motor imagery
 
 ### Research Proposal(W1D5)
@@ -31,14 +38,3 @@ The results of a  preliminary logistic regression classification show that the h
   The results of a preliminary logistic regression classification performed on hand movement data show that the high-frequency band power (HFBp) in the motor electrodes has the most discriminating power (classification accuracy = 98%). Accuracy was also high for low-frequency band power (LFBp) in the same electrodes, with a classification accuracy of 94%, Both exceeding the Theta band power in DLPFC, that had an accuracy of about 50% distinguishing MI and ME. Of note is that the electrodes located in BA9 showed slightly higher (62%) accuracy than that of BA46 (56%).
   The same test performed for tongue movements showed similar results, with accuracies of 95%,81%,68% and 58% For HFBp and LFBp in motor areas and theta band power in BA46 and BA9, respectively, only this time, BA46 showed higher classification accuracy than BA9.
    Contrary to our initial hypothesis, these results suggest that the Theta band activity of DLPFC, at least if looked at synchronously, is not as reliable as HFBp and LFBp of the motor areas in discriminating MI and ME.
-
-
-**The following contribuited equally to this project:**
-
-  - Alessandro Corsini (https://alessandrocorsini.github.io/)
-  - Melchior Steimen (steimenmelchior@gmail.com)
-  - Mila Makarova (makarova-milka@mail.ru)
-  - Saman Lashgari (smnlashkari@gmail.com)
-  - Ricardo De Haro Mancha (ricardomeine96@gmail.com)
-
-We thank our Teaching Assistant: Joao Araujo (https://github.com/joaoaraujo1)
